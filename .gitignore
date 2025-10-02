@@ -1,0 +1,25 @@
+# Output directories
+output/
+output copy/
+output1/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you want to ignore data)
+# data/
